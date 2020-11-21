@@ -1,0 +1,13 @@
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.exe
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.deps.json
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.runtimeconfig.json
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.runtimeconfig.dev.json
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.dll
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\bin\Debug\netcoreapp3.1\ConsoleApp.NetCore.pdb
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.csprojAssemblyReference.cache
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.AssemblyInfoInputs.cache
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.AssemblyInfo.cs
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.dll
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.pdb
+C:\Users\ujasp\source\repos\ConsoleApp.NetCore\ConsoleApp.NetCore\obj\Debug\netcoreapp3.1\ConsoleApp.NetCore.genruntimeconfig.cache

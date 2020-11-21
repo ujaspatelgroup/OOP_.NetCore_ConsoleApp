@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ujasp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ujasp\\.nuget\\packages"
+    ]
+  }
+}
